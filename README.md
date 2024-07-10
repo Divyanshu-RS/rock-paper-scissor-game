@@ -1,5 +1,5 @@
 # Rock-Paper-Scissor
-## check the project live at <a href=https://rock-paper-scissor-game-divyanshu-rs.vercel.app/"> Rock-Paper-Scissor </a> 
+## check the project live at <a href="https://rock-paper-scissor-game-divyanshu-rs.vercel.app/"> Rock-Paper-Scissor </a> 
 This is a Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. You can play this classic hand game against the computer. The game is fully responsive and can be played on both desktop and mobile devices.
 
 ## Features
